@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/luizemm/learning-go-lang/visibility"
+	"github.com/luizemm/learning-go-lang/basics/visibility"
 )
 
 func main() {
